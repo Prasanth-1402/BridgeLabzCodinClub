@@ -4,7 +4,7 @@ public class CompanyEmpWage{
 	public int numOfWorkingDays;
 	public int maxHoursPerMonth;
 	public int totalEmpWage;
-	
+																
 	public CompanyEmpWage(String compName, int empRateHour, int numOfWorkingDays, int maxHoursPerMonth){
 		this.compName=compName;
 		this.empRateHour=empRateHour;
